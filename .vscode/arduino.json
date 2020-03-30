@@ -1,0 +1,5 @@
+{
+    "port": "COM5",
+    "board": "arduino:avr:uno",
+    "sketch": "tiny_gps___test\\tiny_gps___test.ino"
+}
